@@ -1,10 +1,10 @@
-# PR.2 Analyzer 📊
+# PR.2 Analyzer 
 
-## 📌 Project Overview
+##  Project Overview
 
 PR.2 Analyzer is an Excel-based sales data analysis project created to analyze sales data and present useful business insights through calculations, analysis tables, charts, and a dashboard.
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains the following fields:
 
@@ -18,7 +18,7 @@ The dataset contains the following fields:
 * Date
 * Profit
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### 1. Descriptive Statistics
 
@@ -50,7 +50,7 @@ Sales were analyzed across different regions.
 
 Sales were analyzed according to product categories.
 
-## 📈 Dashboard
+##  Dashboard
 
 The project includes a Professional Sales Performance Dashboard containing:
 
@@ -64,14 +64,14 @@ The project includes a Professional Sales Performance Dashboard containing:
 * Sales by Product Category
 * Key Insights
 
-## 📊 Charts Used
+##  Charts Used
 
 * Line Chart — Monthly Sales Trend
 * Column Chart — Sales by Region
 * Bar Chart — Top 10 Customers by Sales
 * Bar Chart — Sales by Product Category
 
-## 💡 Key Insights
+##  Key Insights
 
 The dashboard helps identify:
 
@@ -81,7 +81,7 @@ The dashboard helps identify:
 * Product category sales performance
 * Overall sales, profit, order volume, and discount metrics
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Microsoft Excel
 * Excel Formulas
@@ -91,7 +91,7 @@ The dashboard helps identify:
 * Charts
 * Dashboard Design
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning and Organization
 * Excel Formulas
@@ -104,7 +104,7 @@ The dashboard helps identify:
 * Dashboard Creation
 * Data Storytelling
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 PR.2-Analyzer/
@@ -117,7 +117,7 @@ PR.2-Analyzer/
 └── README.md
 ```
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how Microsoft Excel can be used to transform raw sales data into meaningful analysis, visualizations, and a professional dashboard.
 
