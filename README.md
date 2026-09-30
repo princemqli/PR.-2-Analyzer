@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-PR.2 Analyzer is an Excel-based sales data analysis project created to analyze sales data and present useful business insights through calculations, analysis tables, charts, and a dashboard.
+ Analyzer is an Excel-based sales data analysis project created to analyze sales data and present useful business insights through calculations, analysis tables, charts, and a dashboard.
 
 ##  Dataset
 
